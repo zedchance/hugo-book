@@ -3,6 +3,17 @@ title: Introduction
 type: docs
 ---
 
+```
+code 1
+```
+```go
+code 2
+```
+{{< highlight go "linenos=table,hl_lines=8 15-17,linenostart=199" >}}
+// ... code
+{{< / highlight >}}
+
+
 # Acerbo datus maxime
 
 {{< columns >}}

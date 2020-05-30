@@ -23,6 +23,7 @@ enableGitInfo = true
 [languages]
 [languages.en]
   languageName = 'English'
+  # languageDirection = 'rtl'
   contentDir = 'content'
   weight = 1
 
