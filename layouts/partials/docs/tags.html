@@ -1,0 +1,5 @@
+<nav>
+  {{ range .GetTerms "tags" }}
+  <a href="{{ .Permalink }}"><code>{{ .LinkTitle }}</code></a><br>
+  {{ end }}
+</nav>
